@@ -35,9 +35,9 @@ namespace Tumakov
         }
         static void Main(string[] args)
         {
-            //Lesson1();
-            //Lesson2();
-            //Lesson3();
+            Lesson1();
+            Lesson2();
+            Lesson3();
 
             Song song = new Song("Lalalala", "Y2K");
             Song song2 = new Song("LadaSedan", "Timati", song);
